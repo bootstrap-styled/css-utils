@@ -209,7 +209,7 @@
     "lint-staged"
   ],
   "dependencies": {
-    "@bootstrap-styled/utils": "^1.0.0",
+    "@bootstrap-styled/utils": "^1.0.1",
     "@bootstrap-styled/css-mixins": "1.0.5",
     "color": "^1.0.3"
   },
