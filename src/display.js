@@ -1,4 +1,4 @@
-import { breakpointInfix, mediaBreakpointUp } from '../breakpoints';
+import { breakpointInfix, mediaBreakpointUp } from '@bootstrap-styled/css-mixins/lib/breakpoints';
 
 export const defaultProps = {
   '$grid-breakpoints': {

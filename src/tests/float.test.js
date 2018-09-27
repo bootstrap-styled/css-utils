@@ -1,22 +1,15 @@
-import { floatLeft, floatRight, floatNone } from '../float';
+import { fromJS } from 'immutable';
+import { defaultProps, getFloatUtilities } from '../float';
 
-describe('bootstrap float mixins', () => {
-  it('floatLeft should return a css', () => {
-    const css = floatLeft();
+describe('bootstrap float utility', () => {
+  it('getFloatUtilities should return a list of css utilities', () => {
+    const css = getFloatUtilities(defaultProps['$grid-breakpoints']);
     expect(css).not.toContain('undefined');
     expect(css).not.toContain('null');
-    expect(css).toEqual('\n    float: left !important;\n  ');
+    expect(fromJS({ css }).hashCode()).toEqual(-111904855);
   });
-  it('floatRight should return a css', () => {
-    const css = floatRight();
-    expect(css).not.toContain('undefined');
-    expect(css).not.toContain('null');
-    expect(css).toEqual('\n    float: right !important;\n  ');
-  });
-  it('floatNone should return a css', () => {
-    const css = floatNone();
-    expect(css).not.toContain('undefined');
-    expect(css).not.toContain('null');
-    expect(css).toEqual('\n    float: none !important;\n  ');
+  it('getFloatUtilities should have arguments', () => {
+    const css = getFloatUtilities();
+    expect(fromJS({ css }).hashCode()).toEqual(-111904855);
   });
 });

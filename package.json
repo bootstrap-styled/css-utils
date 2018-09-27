@@ -1,11 +1,11 @@
 {
-  "name": "@bootstrap-styled/css-mixins",
+  "name": "@bootstrap-styled/css-utils",
   "version": "1.0.5",
   "description": "Bootstrap mixins and utilities in javascript for bootstrap-styled.",
   "main": "lib/index.js",
-  "jsnext:main": "dist/@bootstrap-styled/css-mixins.es.js",
-  "module": "dist/@bootstrap-styled/css-mixins.es.js",
-  "homepage": "https://bootstrap-styled.github.io/css-mixins",
+  "jsnext:main": "dist/@bootstrap-styled/css-utils.es.js",
+  "module": "dist/@bootstrap-styled/css-utils.es.js",
+  "homepage": "https://bootstrap-styled.github.io/css-utils",
   "browserslist": [
     "IE >= 9",
     "last 2 versions"
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://module.kopaxgroup.com/bootstrap-styled/css-mixins.git"
+    "url": "https://module.kopaxgroup.com/bootstrap-styled/css-utils.git"
   },
   "bugs": {
-    "url": "https://module.kopaxgroup.com/bootstrap-styled/css-mixins/issues"
+    "url": "https://module.kopaxgroup.com/bootstrap-styled/css-utils/issues"
   },
   "files": [
     "LICENSE.md",
@@ -117,13 +117,6 @@
     "@semantic-release/gitlab": "^2.1.4",
     "@semantic-release/npm": "^4.0.0",
     "@yeutech-lab/rollup-umd-documentation": "^2.3.18",
-    "@yeutech/rollup-documentation": "^2.3.4",
-    "@yeutech/rollup-umd-ci-build": "^1.0.5",
-    "@yeutech/rollup-umd-ci-deploy": "^1.0.7",
-    "@yeutech/rollup-umd-ci-release": "^1.0.5",
-    "@yeutech/rollup-umd-ci-release-transitive": "^1.1.6",
-    "@yeutech/rollup-umd-ci-test": "^1.0.6",
-    "@yeutech/rollup-umd-scripts": "^0.15.22",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^7.2.3",
@@ -193,7 +186,7 @@
     "coverageThreshold": {
       "global": {
         "statements": 99,
-        "branches": 97,
+        "branches": 91,
         "functions": 99,
         "lines": 99
       }
@@ -216,7 +209,8 @@
     "lint-staged"
   ],
   "dependencies": {
-    "bootstrap-styled-utils": "^1.0.2",
+    "@bootstrap-styled/utils": "^1.0.0",
+    "@bootstrap-styled/css-mixins": "1.0.5",
     "color": "^1.0.3"
   },
   "publishConfig": {

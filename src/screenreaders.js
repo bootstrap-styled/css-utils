@@ -1,4 +1,4 @@
-import { srOnly, srOnlyFocusable } from '../screen-reader';
+import { srOnly, srOnlyFocusable } from '@bootstrap-styled/css-mixins/lib/screen-reader';
 
 export function getScreenReadersUtilities() {
   return `

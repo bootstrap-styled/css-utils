@@ -1,7 +1,7 @@
-import { mediaBreakpointUp, breakpointInfix } from '../breakpoints';
-import { textTruncate } from '../text-truncate';
-import { textHide } from '../text-hide';
-import { textEmphasisVariant } from '../text-emphasis';
+import { mediaBreakpointUp, breakpointInfix } from '@bootstrap-styled/css-mixins/lib/breakpoints';
+import { textTruncate } from '@bootstrap-styled/css-mixins/lib/text-truncate';
+import { textHide } from '@bootstrap-styled/css-mixins/lib/text-hide';
+import { textEmphasisVariant } from '@bootstrap-styled/css-mixins/lib/text-emphasis';
 
 export const defaultProps = {
   '$grid-breakpoints': {

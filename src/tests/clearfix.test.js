@@ -1,10 +1,17 @@
-import { clearfix } from '../clearfix';
+import { fromJS } from 'immutable';
+import { getClearfixUtilities, getClearfix } from '../clearfix';
 
-describe('bootstrap clearfix mixins', () => {
-  it('clearfix should return a css', () => {
-    const css = clearfix();
+describe('bootstrap clearfix utility', () => {
+  it('getClearfixUtilities should return a list of css utilities', () => {
+    const css = getClearfixUtilities();
     expect(css).not.toContain('undefined');
     expect(css).not.toContain('null');
-    expect(css).toEqual('\n    &::after {\n      content: "";\n      display: table;\n      clear: both;\n    }\n  ');
+    expect(fromJS({ css }).hashCode()).toEqual(308530444);
+  });
+  it('getClearfix should return a list of css utilities', () => {
+    const css = getClearfix();
+    expect(css).not.toContain('undefined');
+    expect(css).not.toContain('null');
+    expect(fromJS({ css }).hashCode()).toEqual(-1061470531);
   });
 });

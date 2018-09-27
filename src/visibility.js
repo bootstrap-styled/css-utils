@@ -1,12 +1,19 @@
+import { invisible } from '@bootstrap-styled/css-mixins/lib/visibility';
 
-// Visibility
 
-export function invisible(visibility) {
+export function getVisibilityUtilities() {
   return `
-    visibility: ${visibility} !important;
+    .visible {
+      ${invisible('visible')}
+    }
+    
+    .invisible {
+      ${invisible('hidden')}
+    }
+   
   `;
 }
 
 export default {
-  invisible,
+  getVisibilityUtilities,
 };

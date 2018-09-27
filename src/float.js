@@ -1,23 +1,38 @@
-export function floatLeft() {
-  return `
-    float: left !important;
-  `;
-}
+import { floatLeft, floatRight, floatNone } from '@bootstrap-styled/css-mixins/lib/float';
+import { mediaBreakpointUp, breakpointInfix } from '@bootstrap-styled/css-mixins/lib/breakpoints';
 
-export function floatRight() {
-  return `
-    float: right !important;
-  `;
-}
+export const defaultProps = {
+  '$grid-breakpoints': {
+    xs: '0',
+    sm: '576px',
+    md: '768px',
+    lg: '992px',
+    xl: '1200px',
+  },
+};
 
-export function floatNone() {
-  return `
-    float: none !important;
-  `;
+export function getFloatUtilities(gridBreakpoints = defaultProps['$grid-breakpoints']) {
+  const floatUtilityList = [];
+  Object.keys(gridBreakpoints).forEach((breakpoint) => {
+    const infix = breakpointInfix(breakpoint, gridBreakpoints);
+    const floatUtility = mediaBreakpointUp(breakpoint, gridBreakpoints, `
+      .float${infix}-left {
+        ${floatLeft()}
+      }
+      .float${infix}-right {
+        ${floatRight()}
+      }
+      .float${infix}-none {
+        ${floatNone()}
+      }
+    `);
+    floatUtilityList.push(floatUtility);
+  });
+
+  return floatUtilityList.join('\n');
 }
 
 export default {
-  floatLeft,
-  floatRight,
-  floatNone,
+  defaultProps,
+  getFloatUtilities,
 };

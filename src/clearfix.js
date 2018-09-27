@@ -1,13 +1,20 @@
-export function clearfix() {
+import { clearfix } from '@bootstrap-styled/css-mixins/lib/clearfix';
+
+export function getClearfixUtilities() {
   return `
-    &::after {
-      content: "";
-      display: table;
-      clear: both;
+   ${getClearfix()}
+  `;
+}
+
+export function getClearfix() {
+  return `
+    .clearfix {
+      ${clearfix()}
     }
   `;
 }
 
 export default {
-  clearfix,
+  getClearfixUtilities,
+  getClearfix,
 };

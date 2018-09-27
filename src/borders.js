@@ -1,4 +1,4 @@
-import { borderRadius, borderTopRadius, borderRightRadius, borderBottomRadius, borderLeftRadius } from '../border-radius';
+import { borderRadius, borderTopRadius, borderRightRadius, borderBottomRadius, borderLeftRadius } from '@bootstrap-styled/css-mixins/lib/border-radius';
 
 export const defaultProps = {
   '$border-radius': '.25rem',

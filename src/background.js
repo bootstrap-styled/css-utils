@@ -1,4 +1,4 @@
-import { bgVariant } from '../background-variant';
+import { bgVariant } from '@bootstrap-styled/css-mixins/lib/background-variant';
 
 export const defaultProps = {
   '$enable-hover-media-query': false,
