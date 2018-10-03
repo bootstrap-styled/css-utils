@@ -206,8 +206,7 @@
     ]
   },
   "pre-commit": [
-    "build:readme",
-    "lint-staged"
+    "build:readme"
   ],
   "dependencies": {
     "@bootstrap-styled/utils": "^1.0.5",
