@@ -1,8 +1,5 @@
 image: kopaxgroup/node10-jdk8-flyway4-sonarscanner2-docker17-debian
 
-variables:
-  GIT_TRACE: 1
-
 before_script:
   - npx @yeutech-lab/rollup-umd-ci-before-script
 
