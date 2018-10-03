@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "jsnext:main": "dist/@bootstrap-styled/css-utils.es.js",
   "module": "dist/@bootstrap-styled/css-utils.es.js",
-  "homepage": "https://bootstrap-styled.github.io/css-utils",
+  "homepage": "https://bootstrap-styled.yeutech.com/css-utils",
   "browserslist": [
     "IE >= 9",
     "last 2 versions"
@@ -116,7 +116,6 @@
     "@semantic-release/git": "^7.0.0",
     "@semantic-release/gitlab": "^2.1.4",
     "@semantic-release/npm": "^4.0.0",
-    "@yeutech-lab/rollup-umd-documentation": "^2.3.18",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^7.2.3",
@@ -134,8 +133,8 @@
     "babel-preset-stage-2": "^6.24.1",
     "babel-preset-stage-3": "^6.24.1",
     "cz-conventional-changelog": "^2.1.0",
-    "enzyme": "^3.0.0",
-    "enzyme-adapter-react-16": "^1.0.0",
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0",
     "ci-publish": "^1.3.1",
     "eslint": "^5.6.0",
     "eslint-config-airbnb": "^15.0.1",
@@ -149,6 +148,8 @@
     "lint-staged": "^4.1.3",
     "pre-commit": "^1.2.2",
     "rimraf": "^2.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
     "react-styleguidist": "7.1.0",
     "rollup": "^0.57.1",
     "rollup-plugin-babel": "^3.0.3",
@@ -209,20 +210,18 @@
     "lint-staged"
   ],
   "dependencies": {
-    "@bootstrap-styled/utils": "^1.0.0",
+    "@bootstrap-styled/utils": "^1.0.4",
     "@bootstrap-styled/css-mixins": "1.0.5",
     "color": "^1.0.3"
   },
   "publishConfig": {
     "tag": "latest",
-    "registry": "https://npm.kopaxgroup.com"
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   },
   "private": false,
   "release": {
     "branch": "master",
-    "publishConfig": {
-      "access": "public"
-    },
     "success": false,
     "fail": false,
     "npmPublish": true,
