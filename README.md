@@ -19,8 +19,7 @@ Bootstrap mixins and utilities in javascript for bootstrap-styled.
   - [Documentation](#documentation)
   - [License](#license)
 
----
-## Documentation
+---## Documentation
 
   - View bootstrap-styled [HTML documentation](https://bootstrap-styled.yeutech.com)
 
