@@ -1,3 +1,26 @@
+# 1.0.0 (2018-10-03)
+
+
+### Bug Fixes
+
+* **CI:** fixing ci ([67529ab](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/67529ab))
+* **CI:** trying to fix CI ([8f34df2](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/8f34df2))
+* **gitlab-ci.yml:** added GIT vaariable ([a3faae6](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/a3faae6))
+* **gitlab-ci.yml:** Updated image link. ([4fb39f2](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/4fb39f2))
+* **package.json:** adde right utils apockage ([e4bdfea](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/e4bdfea))
+* **package.json:** added scope [@bootstrap-styled](https://module.kopaxgroup.com/bootstrap-styled) and renamed [@bootstrap-styled](https://module.kopaxgroup.com/bootstrap-styled)/mixins ([68b4d68](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/68b4d68))
+* **package.json:** added scope [@bootstrap-styled](https://module.kopaxgroup.com/bootstrap-styled) and renamed [@bootstrap-styled](https://module.kopaxgroup.com/bootstrap-styled)/mixins ([3d2cd7b](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/3d2cd7b))
+* **package.json:** added the right assets to prepare release ([f87d479](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/f87d479))
+* **package.json:** removed lintstaged from precommit ([9d9d448](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/9d9d448))
+* **README:** typo ([b7a795c](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/b7a795c))
+* fixed CI ([ecf8ef0](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/ecf8ef0))
+
+
+### Features
+
+* **commitizen:** initialized project as commitizen and added badge in README ([61507c5](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/61507c5))
+* **flex:** added justify-content-evenly ([c382535](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/c382535))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
