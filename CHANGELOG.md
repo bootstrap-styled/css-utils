@@ -1,3 +1,10 @@
+## [1.0.1](https://module.kopaxgroup.com/bootstrap-styled/css-utils/compare/v1.0.0...v1.0.1) (2018-11-05)
+
+
+### Bug Fixes
+
+* **publish:** set to public ([755e9f0](https://module.kopaxgroup.com/bootstrap-styled/css-utils/commit/755e9f0))
+
 # 1.0.0 (2018-10-03)
 
 
