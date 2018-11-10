@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/bootstrap-styled/css-utils/compare/v1.0.1...v1.0.2) (2018-11-10)
+
+
+### Bug Fixes
+
+* **release:** GitHub release https://github.com/bootstrap-styled/css-utils ([c833ec9](https://github.com/bootstrap-styled/css-utils/commit/c833ec9))
+
 ## [1.0.1](https://module.kopaxgroup.com/bootstrap-styled/css-utils/compare/v1.0.0...v1.0.1) (2018-11-05)
 
 
