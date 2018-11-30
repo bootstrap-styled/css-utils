@@ -5,6 +5,7 @@
     "**/*.spec.{js,jsx,ts,tsx}",
     "**/*.d.ts"
   ],
+  "pagePerSection": true,
   "sections": [
     {
       "name": "Introduction",
@@ -21,16 +22,72 @@
         {
           "name": "Installation",
           "content": "docs/installation.md"
-        },
-        {
-          "name": "Configuration",
-          "content": "docs/configuration.md"
         }
-      ]
+      ],
+      "sectionDepth": 0
     },
     {
-      "name": "UI",
-      "content": "docs/ui.md"
+      "name": "Utils",
+      "content": "docs/utils.md",
+      "sections": [
+        {
+          "name": "Align",
+          "content": "docs/globalUtils/align.md"
+        },
+        {
+          "name": "Borders",
+          "content": "docs/globalUtils/borders.md"
+        },
+        {
+          "name": "Border-radius",
+          "content": "docs/globalUtils/border-radius.md"
+        },
+        {
+          "name": "Clearfix",
+          "content": "docs/globalUtils/clearfix.md"
+        },
+        {
+          "name": "Cursor",
+          "content": "docs/globalUtils/cursor.md"
+        },
+        {
+          "name": "Display",
+          "content": "docs/globalUtils/display.md"
+        },
+        {
+          "name": "Flexbox",
+          "content": "docs/globalUtils/flexbox.md"
+        },
+        {
+          "name": "Positions",
+          "content": "docs/globalUtils/position.md"
+        },
+        {
+          "name": "Screen-reader",
+          "content": "docs/globalUtils/screen-readers.md"
+        },
+        {
+          "name": "Sizing",
+          "content": "docs/globalUtils/sizing.md"
+        },
+        {
+          "name": "Spacing",
+          "content": "docs/globalUtils/spacing.md"
+        },
+        {
+          "name": "Text",
+          "content": "docs/globalUtils/text.md"
+        },
+        {
+          "name": "Transition",
+          "content": "docs/globalUtils/transition.md"
+        },
+        {
+          "name": "Visibility",
+          "content": "docs/globalUtils/visibility.md"
+        }
+      ],
+      "sectionDepth": 1
     },
     {
       "name": "FAQ",
