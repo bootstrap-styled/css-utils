@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/bootstrap-styled/css-utils/compare/v1.1.0...v1.1.1) (2018-11-30)
+
+
+### Bug Fixes
+
+* **dependencies:** updated some [@bs](https://github.com/bs)/.. packages. ([d6fdd41](https://github.com/bootstrap-styled/css-utils/commit/d6fdd41))
+* **documentation:** added documentation for all utils. ([67cee21](https://github.com/bootstrap-styled/css-utils/commit/67cee21))
+
 # [1.1.0](https://github.com/bootstrap-styled/css-utils/compare/v1.0.2...v1.1.0) (2018-11-14)
 
 
