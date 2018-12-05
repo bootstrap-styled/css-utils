@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/bootstrap-styled/css-utils/compare/v1.1.1...v1.1.2) (2018-12-01)
+
+
+### Bug Fixes
+
+* **CI:** modified the travis.yml acordingly. ([5c690dd](https://github.com/bootstrap-styled/css-utils/commit/5c690dd))
+
 ## [1.1.1](https://github.com/bootstrap-styled/css-utils/compare/v1.1.0...v1.1.1) (2018-11-30)
 
 
