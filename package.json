@@ -115,7 +115,7 @@
     "@semantic-release/git": "^7.0.5",
     "@semantic-release/github": "^5.2.1",
     "@semantic-release/npm": "^4.0.0",
-    "@yeutech-lab/rollup-umd-documentation": "^2.4.6",
+    "@rollup-umd/documentation": "^1.0.17",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^7.2.3",
@@ -209,8 +209,8 @@
     "build:readme"
   ],
   "dependencies": {
-    "@bootstrap-styled/utils": "^1.6.1",
-    "@bootstrap-styled/css-mixins": "1.1.0",
+    "@bootstrap-styled/utils": "^1.6.4",
+    "@bootstrap-styled/css-mixins": "1.1.2",
     "color": "^1.0.3"
   },
   "publishConfig": {
