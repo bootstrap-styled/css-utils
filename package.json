@@ -216,7 +216,7 @@
     "build:readme"
   ],
   "dependencies": {
-    "@bootstrap-styled/css-mixins": "1.1.2",
+    "@bootstrap-styled/css-mixins": "1.2.0",
     "@bootstrap-styled/utils": "^1.6.4"
   },
   "publishConfig": {
