@@ -1,3 +1,18 @@
+## [1.1.4](https://github.com/bootstrap-styled/css-utils/compare/v1.1.3...v1.1.4) (2018-12-07)
+
+
+### Bug Fixes
+
+* **dependencies:** Update css-mixins to v1.2.0 ([40ac818](https://github.com/bootstrap-styled/css-utils/commit/40ac818))
+* **dependencies:** Upgrade many deps, semantic-release, babel 7, remove useless dependencies utils ([4ed2058](https://github.com/bootstrap-styled/css-utils/commit/4ed2058))
+
+## [1.1.3](https://github.com/bootstrap-styled/css-utils/compare/v1.1.2...v1.1.3) (2018-12-05)
+
+
+### Bug Fixes
+
+* **documentation:** added new doc dependencies. ([07a3ebf](https://github.com/bootstrap-styled/css-utils/commit/07a3ebf))
+
 ## [1.1.2](https://github.com/bootstrap-styled/css-utils/compare/v1.1.1...v1.1.2) (2018-12-01)
 
 

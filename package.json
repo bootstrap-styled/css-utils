@@ -1,6 +1,6 @@
 {
   "name": "@bootstrap-styled/css-utils",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "Bootstrap mixins and utilities in javascript for bootstrap-styled.",
   "main": "lib/index.js",
   "jsnext:main": "dist/@bootstrap-styled/css-utils.es.js",
@@ -151,7 +151,7 @@
     "immutable": "^3.8.1",
     "jest-cli": "^23.6.0",
     "jest-sonar-reporter": "^2.0.0",
-    "lint-staged": "^4.1.3",
+    "lint-staged": "^8.1.0",
     "pre-commit": "^1.2.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
