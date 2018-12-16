@@ -72,8 +72,6 @@ const plugins = [
   cleanup(),
 ];
 
-if (prod) plugins.push(uglify(), visualizer({ filename: './bundle-stats.html' }));
-
 export default output.map((o) => ({
   input: 'src/index.js',
   external,
