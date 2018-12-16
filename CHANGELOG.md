@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/bootstrap-styled/css-utils/compare/v1.1.4...v1.2.0) (2018-12-16)
+
+
+### Bug Fixes
+
+* **rollup:** fix configuration rollup ([0b58d0f](https://github.com/bootstrap-styled/css-utils/commit/0b58d0f))
+
+
+### Features
+
+* **greenkeeper:** added greenkeeper and updated all deps ([67f6e3a](https://github.com/bootstrap-styled/css-utils/commit/67f6e3a))
+
 ## [1.1.4](https://github.com/bootstrap-styled/css-utils/compare/v1.1.3...v1.1.4) (2018-12-07)
 
 
