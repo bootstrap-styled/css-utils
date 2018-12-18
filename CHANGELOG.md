@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/bootstrap-styled/css-utils/compare/v1.2.2...v1.2.3) (2018-12-18)
+
+
+### Bug Fixes
+
+* **package:** update [@bootstrap-styled](https://github.com/bootstrap-styled)/css-mixins to version 1.3.3 ([edb1884](https://github.com/bootstrap-styled/css-utils/commit/edb1884))
+
 ## [1.2.2](https://github.com/bootstrap-styled/css-utils/compare/v1.2.1...v1.2.2) (2018-12-18)
 
 
