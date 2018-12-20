@@ -9,10 +9,10 @@ describe('bootstrap spacing utility', () => {
     );
     expect(css).not.toContain('undefined');
     expect(css).not.toContain('null');
-    expect(fromJS({ css }).hashCode()).toEqual(1035143239);
+    expect(fromJS({ css }).hashCode()).toEqual(-924995996);
   });
   it('getSpacingUtilities should have arguments', () => {
     const css = getSpacingUtilities();
-    expect(fromJS({ css }).hashCode()).toEqual(1035143239);
+    expect(fromJS({ css }).hashCode()).toEqual(-924995996);
   });
 });
