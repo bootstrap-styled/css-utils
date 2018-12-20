@@ -1,3 +1,36 @@
+## [1.2.3](https://github.com/bootstrap-styled/css-utils/compare/v1.2.2...v1.2.3) (2018-12-18)
+
+
+### Bug Fixes
+
+* **package:** update [@bootstrap-styled](https://github.com/bootstrap-styled)/css-mixins to version 1.3.3 ([edb1884](https://github.com/bootstrap-styled/css-utils/commit/edb1884))
+
+## [1.2.2](https://github.com/bootstrap-styled/css-utils/compare/v1.2.1...v1.2.2) (2018-12-18)
+
+
+### Bug Fixes
+
+* **package:** update [@bootstrap-styled](https://github.com/bootstrap-styled)/css-mixins to version 1.3.1 ([b275d6e](https://github.com/bootstrap-styled/css-utils/commit/b275d6e))
+
+## [1.2.1](https://github.com/bootstrap-styled/css-utils/compare/v1.2.0...v1.2.1) (2018-12-16)
+
+
+### Bug Fixes
+
+* **greenkeeper:** fix sonar running on greenkeeper test ([6259b08](https://github.com/bootstrap-styled/css-utils/commit/6259b08))
+
+# [1.2.0](https://github.com/bootstrap-styled/css-utils/compare/v1.1.4...v1.2.0) (2018-12-16)
+
+
+### Bug Fixes
+
+* **rollup:** fix configuration rollup ([0b58d0f](https://github.com/bootstrap-styled/css-utils/commit/0b58d0f))
+
+
+### Features
+
+* **greenkeeper:** added greenkeeper and updated all deps ([67f6e3a](https://github.com/bootstrap-styled/css-utils/commit/67f6e3a))
+
 ## [1.1.4](https://github.com/bootstrap-styled/css-utils/compare/v1.1.3...v1.1.4) (2018-12-07)
 
 
