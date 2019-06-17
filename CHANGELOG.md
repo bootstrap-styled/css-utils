@@ -1,3 +1,24 @@
+## [1.2.6](https://github.com/bootstrap-styled/css-utils/compare/v1.2.5...v1.2.6) (2018-12-21)
+
+
+### Bug Fixes
+
+* **dependencies:** update all dependencies and fix tests ([1866c99](https://github.com/bootstrap-styled/css-utils/commit/1866c99))
+
+## [1.2.5](https://github.com/bootstrap-styled/css-utils/compare/v1.2.4...v1.2.5) (2018-12-20)
+
+
+### Bug Fixes
+
+* **dependencies:** Update [@bootstrap-styled](https://github.com/bootstrap-styled)/css-mixins to v2.0.1 ([ebdecbc](https://github.com/bootstrap-styled/css-utils/commit/ebdecbc))
+
+## [1.2.4](https://github.com/bootstrap-styled/css-utils/compare/v1.2.3...v1.2.4) (2018-12-20)
+
+
+### Bug Fixes
+
+* **dependencies:** Update css-mixins to 2.0.0, and all over dependencies to latest ([3964869](https://github.com/bootstrap-styled/css-utils/commit/3964869))
+
 ## [1.2.3](https://github.com/bootstrap-styled/css-utils/compare/v1.2.2...v1.2.3) (2018-12-18)
 
 
