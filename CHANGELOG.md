@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/bootstrap-styled/css-utils/compare/v1.2.7...v1.3.0) (2019-08-04)
+
+
+### Features
+
+* **typescript:** added typescript definition ([cae228f](https://github.com/bootstrap-styled/css-utils/commit/cae228f))
+
 ## [1.2.7](https://github.com/bootstrap-styled/css-utils/compare/v1.2.6...v1.2.7) (2019-06-17)
 
 
