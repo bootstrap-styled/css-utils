@@ -34,26 +34,26 @@ export function fade(enableTransitions = defaultProps['$enable-transitions'], tr
 
 export function collapse(enableTransitions = defaultProps['$enable-transitions'], transitionCollapse = defaultProps['$transition-collapse']) {
   return `
-    .collapse {
+    &.collapse, .collapse {
       display: none;
       &.show {
         display: block;
       }
     }
     
-    tr {
+    tr&, tr {
       &.collapse.show {
         display: table-row;
       }
     }
     
-    tbody {
+    tbody&, tbody {
       &.collapse.show {
         display: table-row-group;
       }
     }
     
-    .collapsing {
+    &.collapsing, .collapsing {
       position: relative;
       height: 0;
       overflow: hidden;
