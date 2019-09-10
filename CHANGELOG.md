@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/bootstrap-styled/css-utils/compare/v1.3.0...v1.3.1) (2019-09-10)
+
+
+### Bug Fixes
+
+* **transition:** collapse can be used as a mixin ([1351a4b](https://github.com/bootstrap-styled/css-utils/commit/1351a4b))
+
 # [1.3.0](https://github.com/bootstrap-styled/css-utils/compare/v1.2.7...v1.3.0) (2019-08-04)
 
 
