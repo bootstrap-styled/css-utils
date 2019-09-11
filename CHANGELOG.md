@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/bootstrap-styled/css-utils/compare/v1.3.1...v1.3.2) (2019-09-11)
+
+
+### Bug Fixes
+
+* **typescript:** Moved typescript definition at the root of the project ([cff76e2](https://github.com/bootstrap-styled/css-utils/commit/cff76e2))
+
 ## [1.3.1](https://github.com/bootstrap-styled/css-utils/compare/v1.3.0...v1.3.1) (2019-09-10)
 
 
