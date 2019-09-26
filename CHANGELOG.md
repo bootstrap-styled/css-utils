@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/bootstrap-styled/css-utils/compare/v1.3.2...v1.3.3) (2019-09-26)
+
+
+### Bug Fixes
+
+* **typescripts:** disable typescript due to https://github.com/bootstrap-styled/bootstrap-styled/issues/83#issuecomment-535666014 ([2a2f200](https://github.com/bootstrap-styled/css-utils/commit/2a2f200)), closes [/github.com/bootstrap-styled/bootstrap-styled/issues/83#issuecomment-535666014](https://github.com//github.com/bootstrap-styled/bootstrap-styled/issues/83/issues/issuecomment-535666014)
+
 ## [1.3.2](https://github.com/bootstrap-styled/css-utils/compare/v1.3.1...v1.3.2) (2019-09-11)
 
 
