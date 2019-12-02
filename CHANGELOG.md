@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/bootstrap-styled/css-utils/compare/v1.3.3...v1.4.0) (2019-12-02)
+
+
+### Features
+
+* **utilities:** added utilities api (next version will be breaking change due to removed old utilities) ([52a4c03](https://github.com/bootstrap-styled/css-utils/commit/52a4c0328f40693867e11675921b1fcb48516584))
+
 ## [1.3.3](https://github.com/bootstrap-styled/css-utils/compare/v1.3.2...v1.3.3) (2019-09-26)
 
 
