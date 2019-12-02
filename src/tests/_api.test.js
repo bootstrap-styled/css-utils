@@ -2,7 +2,6 @@ import theme from 'bootstrap-styled/lib/theme';
 import { screenUtilities, printUtilities } from '../_api';
 
 describe('bootstrap api utility', () => {
-  it.only('should skip test', () => expect(true).toEqual(true));
   it('should return all screen utilities', () => {
     const css = screenUtilities({
       xs: '0',
