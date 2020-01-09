@@ -159,7 +159,7 @@
     "react-dom": "^16.12.0",
     "react-styleguidist": "^10.2.1",
     "rimraf": "^3.0.0",
-    "semantic-release": "^15.13.31",
+    "semantic-release": "^16.0.0",
     "toctoc": "^0.3.2",
     "webpack": "^4.41.2"
   },
