@@ -2,7 +2,6 @@ import theme from 'bootstrap-styled/lib/theme';
 import { screenUtilities, printUtilities } from '../_api';
 
 describe('bootstrap api utility', () => {
-  it.only('should skip test', () => expect(true).toEqual(true));
   it('should return all screen utilities', () => {
     const css = screenUtilities({
       xs: '0',
@@ -103,31 +102,31 @@ describe('bootstrap api utility', () => {
 .border {
       border: 1px solid #dee2e6 !important;
     }
-.border {
+.border-0 {
       border: 0 !important;
     }
 .border-top {
       border-top: 1px solid #dee2e6 !important;
     }
-.border-top {
+.border-top-0 {
       border-top: 0 !important;
     }
 .border-right {
       border-right: 1px solid #dee2e6 !important;
     }
-.border-right {
+.border-right-0 {
       border-right: 0 !important;
     }
 .border-bottom {
       border-bottom: 1px solid #dee2e6 !important;
     }
-.border-bottom {
+.border-bottom-0 {
       border-bottom: 0 !important;
     }
 .border-left {
       border-left: 1px solid #dee2e6 !important;
     }
-.border-left {
+.border-left-0 {
       border-left: 0 !important;
     }
 .border-primary {
