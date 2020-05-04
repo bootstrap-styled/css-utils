@@ -1,3 +1,13 @@
+## [1.4.1](https://github.com/bootstrap-styled/css-utils/compare/v1.4.0...v1.4.1) (2020-05-04)
+
+
+### Bug Fixes
+
+* **dependencies:** upgrade all dependencies ([58460eb](https://github.com/bootstrap-styled/css-utils/commit/58460ebf44c4d50d22d94abad6c0de343477ef1c))
+* **dependencies:** upgrade all dependencies ([524910f](https://github.com/bootstrap-styled/css-utils/commit/524910f9b4159b68df25565519a2298cf0af988e))
+* **dependencies:** upgrade all dependencies ([557f5a0](https://github.com/bootstrap-styled/css-utils/commit/557f5a0501fbc54a241033f783c16c0d91900516))
+* **dependencies:** upgrade all dependencies ([707ee49](https://github.com/bootstrap-styled/css-utils/commit/707ee4901ccc47129922671de3754d0c514b82cc))
+
 # [1.4.0](https://github.com/bootstrap-styled/css-utils/compare/v1.3.3...v1.4.0) (2019-12-02)
 
 
