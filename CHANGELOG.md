@@ -1,3 +1,45 @@
+# [1.4.0](https://github.com/bootstrap-styled/css-utils/compare/v1.3.3...v1.4.0) (2019-12-02)
+
+
+### Features
+
+* **utilities:** added utilities api (next version will be breaking change due to removed old utilities) ([52a4c03](https://github.com/bootstrap-styled/css-utils/commit/52a4c0328f40693867e11675921b1fcb48516584))
+
+## [1.3.3](https://github.com/bootstrap-styled/css-utils/compare/v1.3.2...v1.3.3) (2019-09-26)
+
+
+### Bug Fixes
+
+* **typescripts:** disable typescript due to https://github.com/bootstrap-styled/bootstrap-styled/issues/83#issuecomment-535666014 ([2a2f200](https://github.com/bootstrap-styled/css-utils/commit/2a2f200)), closes [/github.com/bootstrap-styled/bootstrap-styled/issues/83#issuecomment-535666014](https://github.com//github.com/bootstrap-styled/bootstrap-styled/issues/83/issues/issuecomment-535666014)
+
+## [1.3.2](https://github.com/bootstrap-styled/css-utils/compare/v1.3.1...v1.3.2) (2019-09-11)
+
+
+### Bug Fixes
+
+* **typescript:** Moved typescript definition at the root of the project ([cff76e2](https://github.com/bootstrap-styled/css-utils/commit/cff76e2))
+
+## [1.3.1](https://github.com/bootstrap-styled/css-utils/compare/v1.3.0...v1.3.1) (2019-09-10)
+
+
+### Bug Fixes
+
+* **transition:** collapse can be used as a mixin ([1351a4b](https://github.com/bootstrap-styled/css-utils/commit/1351a4b))
+
+# [1.3.0](https://github.com/bootstrap-styled/css-utils/compare/v1.2.7...v1.3.0) (2019-08-04)
+
+
+### Features
+
+* **typescript:** added typescript definition ([cae228f](https://github.com/bootstrap-styled/css-utils/commit/cae228f))
+
+## [1.2.7](https://github.com/bootstrap-styled/css-utils/compare/v1.2.6...v1.2.7) (2019-06-17)
+
+
+### Bug Fixes
+
+* **dependencies:** upgrade all dependencies ([3ca3600](https://github.com/bootstrap-styled/css-utils/commit/3ca3600))
+
 ## [1.2.6](https://github.com/bootstrap-styled/css-utils/compare/v1.2.5...v1.2.6) (2018-12-21)
 
 
