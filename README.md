@@ -4,6 +4,7 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=com.github.bootstrap-styled.css-utils&metric=coverage)](https://sonarcloud.io/dashboard?id=com.github.bootstrap-styled.css-utils) [![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=com.github.bootstrap-styled.css-utils&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.github.bootstrap-styled.css-utils)
 [![gitter](https://badges.gitter.im/bootstrap-styled/bootstrap-styled.svg)](https://gitter.im/bootstrap-styled)
 [![Greenkeeper badge](https://badges.greenkeeper.io/bootstrap-styled/css-utils.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbootstrap-styled%2Fcss-utils.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbootstrap-styled%2Fcss-utils?ref=badge_shield)
 
 Bootstrap mixins and utilities in javascript for bootstrap-styled.
 
@@ -15,6 +16,9 @@ Bootstrap mixins and utilities in javascript for bootstrap-styled.
   - [License MIT](#license-mit)
 
 ---
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbootstrap-styled%2Fcss-utils.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbootstrap-styled%2Fcss-utils?ref=badge_large)
 
 ## Documentation
 
@@ -50,4 +54,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
